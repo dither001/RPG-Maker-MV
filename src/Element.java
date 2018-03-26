@@ -1,0 +1,7 @@
+/*
+ * Currently unused
+ */
+
+public enum Element {
+	SLASH, PIERCE, STRIKE, FORCE, FIRE, COLD, LIGHTNING, THUNDER, ACID, RADIANT, POISON, NECROTIC, PSYCHIC
+}

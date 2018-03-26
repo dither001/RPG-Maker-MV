@@ -1,0 +1,1 @@
+Inspired by JavaScript found in RPG Maker MV
